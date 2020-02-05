@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "312068951016",
+    "firebase_url": "https://siddhesh-821ac.firebaseio.com",
+    "project_id": "siddhesh-821ac",
+    "storage_bucket": "siddhesh-821ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312068951016:android:b7c6eceebb0217ac85b25d",
+        "android_client_info": {
+          "package_name": "in.arijit.siddhesh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312068951016-c1ljea9j17tbk2odqdmhm1hobhb9dieq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0ZWpCZ9CpgRiIEO1gBuH0s8JJLIUOfMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312068951016-c1ljea9j17tbk2odqdmhm1hobhb9dieq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

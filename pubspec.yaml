@@ -1,0 +1,23 @@
+name: siddhesh
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  transparent_image: ^1.0.0
+  font_awesome_flutter: ^8.5.0
+  cloud_firestore: ^0.13.0+1
+  flutter:
+    sdk: flutter
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
